@@ -1,6 +1,6 @@
 # DocQuiz
 
-> 一款支持多种文档格式导入的智能刷题 Android 应用，将 Word/PDF/Markdown 题库一键转换为交互式答题卡片。
+> 一款支持多种文档格式导入的智能刷题 Android 应用，将 Word/PDF/Markdown 题库一键转换为交互式答题卡片。（ps：如果有bug可以联系邮箱2675475323@qq.com）
 
 ## 功能特性
 
